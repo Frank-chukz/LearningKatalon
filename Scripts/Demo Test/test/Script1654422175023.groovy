@@ -23,3 +23,5 @@ WebUI.navigateToUrl('alpha.vpay.africa')
 
 WebUI.closeBrowser()
 
+WebUI.verifyTextPresent('VPay', false)
+
