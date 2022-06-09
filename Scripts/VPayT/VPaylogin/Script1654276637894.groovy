@@ -31,5 +31,7 @@ WebUI.setEncryptedText(findTestObject('Object Repository/VPayLogInT/Page_VPay  C
 
 WebUI.click(findTestObject('Object Repository/VPayLogInT/Page_VPay  Checkout By Bank Transfer/button_Login To My Account'))
 
+WebUI.verifyTextPresent('dashboard', false)
+
 WebUI.closeBrowser()
 
