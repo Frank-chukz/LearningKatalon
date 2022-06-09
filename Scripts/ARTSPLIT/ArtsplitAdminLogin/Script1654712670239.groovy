@@ -28,5 +28,11 @@ WebUI.setEncryptedText(findTestObject('Object Repository/ARTSPLIT/Page_Artsplit/
 
 WebUI.click(findTestObject('Object Repository/ARTSPLIT/Page_Artsplit/button_Sign in'))
 
+WebUI.click(findTestObject('Object Repository/ARTSPLIT/Page_Artsplit/p_Listings'))
+
+WebUI.click(findTestObject('Object Repository/ARTSPLIT/Page_Artsplit/div_Disapproved (12)'))
+
+WebUI.click(findTestObject('Object Repository/ARTSPLIT/Page_Artsplit/div_3.00_img'))
+
 WebUI.closeBrowser()
 

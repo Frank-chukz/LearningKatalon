@@ -22,10 +22,66 @@
       <name>tag</name>
       <type>Main</type>
       <value>input</value>
-      <webElementGuid>eb91f2ae-6a9c-427f-bb2e-6b2d02192872</webElementGuid>
+      <webElementGuid>88e9c22a-d19e-4fa4-a443-be20926c6ef7</webElementGuid>
    </webElementProperties>
    <webElementProperties>
       <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>id</name>
+      <type>Main</type>
+      <value>register_password</value>
+      <webElementGuid>dd9e69ff-29a0-436f-aab6-163b3466439b</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>action</name>
+      <type>Main</type>
+      <value>click</value>
+      <webElementGuid>41f92aa7-44ff-471d-815c-c8d5ef65c7d0</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>true</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>type</name>
+      <type>Main</type>
+      <value>password</value>
+      <webElementGuid>7d69e013-0665-4389-878a-6220d6ad423d</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>class</name>
+      <type>Main</type>
+      <value>ant-input</value>
+      <webElementGuid>d4bf8f12-d0ac-48ae-a42b-26919b6d28a9</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>value</name>
+      <type>Main</type>
+      <value>p</value>
+      <webElementGuid>a99231d3-a673-45ee-8b80-a03ea0ed604e</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>xpath</name>
+      <type>Main</type>
+      <value>id(&quot;register_password&quot;)</value>
+      <webElementGuid>c808b46f-bee7-49cb-87f4-1b2410ea618f</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
+      <matchCondition>equals</matchCondition>
+      <name>tag</name>
+      <type>Main</type>
+      <value>input</value>
+      <webElementGuid>eb91f2ae-6a9c-427f-bb2e-6b2d02192872</webElementGuid>
+   </webElementProperties>
+   <webElementProperties>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>id</name>
       <type>Main</type>
@@ -41,7 +97,7 @@
       <webElementGuid>2cb41e80-e6a0-439b-b647-542da08762c2</webElementGuid>
    </webElementProperties>
    <webElementProperties>
-      <isSelected>true</isSelected>
+      <isSelected>false</isSelected>
       <matchCondition>equals</matchCondition>
       <name>type</name>
       <type>Main</type>
@@ -78,7 +134,7 @@
       <name>xpath:attributes</name>
       <type>Main</type>
       <value>//input[@id='register_password']</value>
-      <webElementGuid>e2947b45-8b3d-4fa6-b2c0-b7c316f78fca</webElementGuid>
+      <webElementGuid>1f7433b0-c70e-460f-94d9-90d12b28a93b</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -86,7 +142,7 @@
       <name>xpath:idRelative</name>
       <type>Main</type>
       <value>//form[@id='register']/div[2]/div/div/div/div/span/input</value>
-      <webElementGuid>7f14187b-9f76-4f3c-8af7-216d07a53698</webElementGuid>
+      <webElementGuid>52433d10-0a0c-4a1a-a43f-4daea5ad5caa</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -94,7 +150,7 @@
       <name>xpath:position</name>
       <type>Main</type>
       <value>//span/input</value>
-      <webElementGuid>fd9df35c-d234-457e-9900-b07035936852</webElementGuid>
+      <webElementGuid>f79dde93-fa1b-4a08-af38-c119412f997e</webElementGuid>
    </webElementXpaths>
    <webElementXpaths>
       <isSelected>false</isSelected>
@@ -102,6 +158,6 @@
       <name>xpath:customAttributes</name>
       <type>Main</type>
       <value>//input[@id = 'register_password' and @type = 'password']</value>
-      <webElementGuid>1a316a09-2b17-4cd7-b6fb-09a1ec520d7f</webElementGuid>
+      <webElementGuid>f99160c1-c7eb-4680-8274-adc0c3112f65</webElementGuid>
    </webElementXpaths>
 </WebElementEntity>
